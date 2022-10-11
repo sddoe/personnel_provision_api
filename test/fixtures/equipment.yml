@@ -3,13 +3,13 @@
 one:
   serial: MyString
   name: MyString
-  type: 
+  description: MyString
   operating_system: MyString
   date_of_assignment: 2022-10-11
 
 two:
-  serial: MyString
+  serial: MyString2
   name: MyString
-  type: 
+  description: MyString
   operating_system: MyString
   date_of_assignment: 2022-10-11
